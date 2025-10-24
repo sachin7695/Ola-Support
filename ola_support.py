@@ -37,7 +37,7 @@ from pipecat.services.openai_realtime_beta import (
     SemanticTurnDetection,
     SessionProperties,
 )
-from tools_ola import register_ola_tools
+from tool_calling import register_ola_tools
 from transcript import TranscriptHandler
 load_dotenv(override=True)
 
@@ -46,7 +46,7 @@ def load_instrcutions(path:str):
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
-instruction_path = os.path.join(os.path.dirname(__file__), "info.txt")
+instruction_path = os.path.join(os.path.dirname(__file__), "prompt.txt")
 instruction_text = load_instrcutions(instruction_path)
 
 
