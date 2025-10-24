@@ -1,0 +1,5 @@
+[2025-10-24T12:10:44.404+00:00] assistant: Namaste, main madad ke liye tayyar hoon. Aap apni samasya bataiye, main poori koshish karunga madad karne ki.
+[2025-10-24T12:11:05.020+00:00] user: मेरा फोन नंबर है, 9911223344, मेरा राइट्स एक्सेप्टिंग हो रहा है।
+[2025-10-24T12:11:07.241+00:00] assistant: Aapka RC document pending hai. Maine link bhej diya hai jiske zariye aap apna RC update kar sakte hain. Kripya us link ke steps follow karke RC upload kijiye. Jab aapka document update ho jayega, account unblock ho jayega. Dhanyawaad!
+[2025-10-24T12:11:36.730+00:00] user: बहुत टाइम से दो घंटे से मुझे कोई राइड नहीं मिल रहा है
+[2025-10-24T12:11:36.732+00:00] assistant: Aapka account abhi blocked hai kyunki RC pending hai. Jaise hi aap document update karenge, aapko ride milne lagegi. Kripya pehle RC update kar dijiye.

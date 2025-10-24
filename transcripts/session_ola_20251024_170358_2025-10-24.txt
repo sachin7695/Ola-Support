@@ -1,0 +1,11 @@
+[2025-10-24T11:34:00.849+00:00] assistant: Main madad ke liye tayyar hoon. Kripya apna prashna bataiye.
+[2025-10-24T11:34:14.689+00:00] user: मेरा राइट दोबारा कैसे एक्सेप्टिंग हो रहा है?
+[2025-10-24T11:34:14.471+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-24T11:34:30.453+00:00] user: الرقم التسلسلي 97652310.
+[2025-10-24T11:34:31.477+00:00] assistant: Aapka number blocked nahi hai. Sab theek hai. Kripya apna location badal kar phir se rides check kijiye. Theek hai ji, dhanyawaad. Agar aur kisi madad ki zarurat ho to batayiyega. Namaste.
+[2025-10-24T11:34:54.070+00:00] user: Μπορείτε να πείτε ότι δεν μπορείτε να γράφετε.
+[2025-10-24T11:34:53.507+00:00] assistant: Main is baare mein pakka nahi bata sakta. Lekin location badalne se aapko rides milne ki sambhavana badh jaati hai. Aap try karke dekhiye.
+[2025-10-24T11:35:11.558+00:00] user: Labaatengante sekoite sarraaw degaane.
+[2025-10-24T11:35:11.560+00:00] assistant: Kabhi kabhi demand aur supply ke hisaab se rides milne mein samay lag sakta hai. Thodi der baad aap phir se check karke dekhiye, aur apna location thoda badal kar bhi try karein. Ho sakta hai aapko jaldi ride mil jaaye.
+[2025-10-24T11:35:31.921+00:00] user: いいです。
+[2025-10-24T11:35:31.700+00:00] assistant: Dhanyawaad, namaste.

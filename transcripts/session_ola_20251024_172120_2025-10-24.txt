@@ -1,0 +1,10 @@
+[2025-10-24T11:51:28.587+00:00] assistant: Namaste, main aapki madad ke liye tayyar hoon. Kripya mujhe bat
+[2025-10-24T11:51:34.364+00:00] user: Hello.
+[2025-10-24T11:51:34.153+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-24T11:51:50.340+00:00] user: My registered number is 9876543210.
+[2025-10-24T11:51:51.578+00:00] assistant: Aapka number blocked nahi hai. Sab theek hai. Kripya apna location badal kar phir se rides check kijiye.
+[2025-10-24T11:52:04.215+00:00] user: Please fortælle.
+[2025-10-24T11:52:04.014+00:00] assistant: Theek hai ji, dhanyawaad. Agar aur koi madad chahiye ho to batayiyega. Namaste.
+[2025-10-24T11:52:20.725+00:00] user: मेरा रजिस्टर्ड फोन नंबर है 9911223344.
+[2025-10-24T11:52:21.404+00:00] assistant: Aapka account abhi block dikh raha hai. Iske liye main aapko ek human agent se jodne ki koshish karta hoon.
+[2025-10-24T11:52:34.392+00:00] user: ہاں ضرور.

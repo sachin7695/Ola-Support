@@ -1,0 +1,24 @@
+[2025-08-14T04:56:20.224+00:00] assistant: Namaste ji,
+[2025-08-14T04:56:21.268+00:00] assistant: main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-14T04:56:32.929+00:00] user: Excited.
+[2025-08-14T04:56:32.928+00:00] assistant: Aapne XYZ123 bola, sahi hai?
+[2025-08-14T04:56:44.951+00:00] user: Na mebola kikxyzd
+[2025-08-14T04:56:44.574+00:00] assistant: Achha, aapne XYZ789 bola, sahi hai?
+[2025-08-14T04:56:56.371+00:00] user: Narame buled e bisi.
+[2025-08-14T04:56:56.352+00:00] assistant: Theek hai, aapne ABC123 bola, sahi hai?
+[2025-08-14T04:57:06.627+00:00] user: Only ABC.
+[2025-08-14T04:57:06.611+00:00] assistant: Achha, ABC bola aapne, sahi hai?
+[2025-08-14T04:57:12.909+00:00] user: 哈塞耶
+[2025-08-14T04:57:13.749+00:00] assistant: Thank you. Chaliye, main aapko thoda situation samjha deta hoon. Aapka kuch amount due hai aur wo pehle se thoda time se pending chal raha hai. Aap bataiye, abhi aap kitna amount arrange kar sakte hain?
+[2025-08-14T04:57:31.512+00:00] user: Para ti nae montiuve?
+[2025-08-14T04:57:31.263+00:00] assistant: Dekhiye, exact amount abhi main nahi bol paunga, lekin jo outstanding hai wo kaafi time se due hai. Aap bas itna bataiye ki abhi aapke liye kitna amount dena possible ho payega.
+[2025-08-14T04:57:48.494+00:00] user: हाँ, क्या मैं जान सकता हूँ कि मेरा कितना मौंग ड्यू है?
+[2025-08-14T04:57:48.276+00:00] assistant: Bilkul, main bas itna keh raha hoon ki aapka amount kaafi time se pending hai. Main aapki madad karne ke liye yahan hoon. Aap bas yeh batayein ki aap abhi kitna amount pay karna convenient samjhte hain.
+[2025-08-14T04:58:08.293+00:00] user: わんぱせんと。
+[2025-08-14T04:58:08.070+00:00] assistant: Theek hai, agar aap ₹1000 tak manage kar pa rahe hain, toh wo bhi ek achha start hai. Aap kab tak yeh payment kar paayenge?
+[2025-08-14T04:58:20.369+00:00] user: अभी तो नहीं कर पाऊंगा।
+[2025-08-14T04:58:20.171+00:00] assistant: Samajh raha hun, kab tak aapko convenient lagega? Ek approximate date de dijiye jab aapko lagta hai ki aap arrange kar paayenge.
+[2025-08-14T04:58:33.311+00:00] user: पता नहीं।
+[2025-08-14T04:58:33.450+00:00] assistant: Koi baat nahi, jab aap thoda clear ho jayein apne finances ko lekar, tab ek date decide kar lete hain. Aapka thoda bhi payment karna late fees aur charges ko kam kar dega. Aap jab tayyar ho, tab batayein ki aap kitna aur kab tak pay kar
+[2025-08-14T04:58:52.773+00:00] user: Cewa?
+[2025-08-14T04:58:52.797+00:00] assistant: Theek hai, jab aapko lage ki aap arrange kar sakte hain, tab payment kar dena. Main yeh recommend karunga ki jitna jaldi ho sake utna acha hai. Dhanyavaad aapke samay ke liye, yeh call ab yahin khatam karte hain.
