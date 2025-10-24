@@ -1,6 +1,0 @@
-[2025-10-24T10:54:55.605+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
-[2025-10-24T10:55:14.280+00:00] user: मेर बोल्यारी 12345
-[2025-10-24T10:55:13.810+00:00] assistant: Aapne 12345 bola, sahi hai?
-[2025-10-24T10:56:05.929+00:00] user: मेरा बोरर आईडी 12345.
-[2025-10-24T10:56:08.154+00:00] user: 濃いです。
-[2025-10-24T10:56:08.878+00:00] assistant: Mujhe maafi chahiye, shayad ID thoda galat suna. Kripya

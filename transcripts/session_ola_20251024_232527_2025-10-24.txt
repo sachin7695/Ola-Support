@@ -1,0 +1,7 @@
+[2025-10-24T17:55:29.833+00:00] assistant: Main madad ke liye tayyar hoon. Aap apni problem bataiye.
+[2025-10-24T17:55:48.052+00:00] user: हाँ मेरा नंबर है 9911223344.
+[2025-10-24T17:55:50.034+00:00] assistant: Aapka account abhi blocked hai kyunki aapka RC document pending hai. Main abhi link bhej raha hoon jisme aap RC upload kar sakte hain. Kripya us link ko follow karke apne documents update kijiye, tab aapka account unblock ho jayega.
+[2025-10-24T17:56:21.699+00:00] user: पिछली बार भी किया था, वही आरसी वगैरह अपलोड किया था, लेकिन आपने बोला कि सही है लेकिन अभी आप फिर से बोल रहे हैं कि अपलोड करने के लिए, मुझे पता नहीं चल रहा है क्या करना है.
+[2025-10-24T17:56:21.176+00:00] assistant: Mujhe samajh mein aaya ki aapko pareshani ho rahi hai. Main aapko naya link bhej raha hoon, jisme aap dobara RC upload kar sakte hain. Kripya ek baar fir se documents check kar lijiye aur phir upload kariyega. Agar fir bhi koi dikkat hoti hai, to main aapko ek human agent se connect karwa deta hoon.
+[2025-10-24T17:56:45.122+00:00] user: धन्यवाद.
+[2025-10-24T17:56:46.746+00:00] assistant: Maine link bhej diya hai, kripya us link ko follow karke apna RC update kar lijiye. Agar aapko aur koi madad chahiye ho to humein zaroor batayiyega. Dhanyawaad!

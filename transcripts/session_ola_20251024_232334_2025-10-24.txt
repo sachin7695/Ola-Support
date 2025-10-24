@@ -1,0 +1,13 @@
+[2025-10-24T17:53:39.182+00:00] assistant: Namaste, main madad ke liye tayyaar hoon. Kripya aap apni baat bataiye.
+[2025-10-24T17:53:56.185+00:00] user: मेरा नाम रमेश है, मैं दो घंटे से ऑनलाइन हूँ पर राइड नहीं कन्फर्म हो रहा है.
+[2025-10-24T17:53:55.723+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-24T17:54:12.103+00:00] user: मेरा रिचर्ड नंबर 9876543210 है.
+[2025-10-24T17:54:13.164+00:00] assistant: Aapka number blocked nahi hai. Sab theek hai. Kripya apna location badal kar phir se rides check kijiye.
+[2025-10-24T17:54:34.528+00:00] user: ठीक है, मैंने एक बार ट्राई किया था लोकेशन बदलकर लेकिन कुछ हुआ नहीं। क्या अब और कुछ मदद कर सकते हो?
+[2025-10-24T17:54:33.947+00:00] assistant: Ji, kya aap mujhe apni current location ya city bata sakte hain? Main thoda supply aur demand check karke madad kar sakta hoon.
+[2025-10-24T17:54:51.209+00:00] user: हाँ, अभी मैं मैजेस्टिक बैंगलोरू के पास हूँ. मुझे बता सकते हो कि कहाँ राइड मिल सकता है अच्छे से?
+[2025-10-24T17:54:52.250+00:00] assistant: Abhi Majestic ke aaspaas demand thodi kam hai, isliye wait time zyada ho sakta hai. 
+
+Aap Peenya taraf move kar sakte hain, wahan demand zyada hai. Wahan jaake rides try kijiye.
+[2025-10-24T17:55:13.575+00:00] user: ठीक है मैं ट्राय करूंगा, धन्यवाद।
+[2025-10-24T17:55:10.117+00:00] assistant: Dhanyawaad! Agar aur madad chahiye ho to humein zaroor batayiyega. Namaste.
