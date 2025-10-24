@@ -8,7 +8,7 @@ cd .. <br>
 clone the repo <br>
 git clone https://github.com/sachin7695/Ola-Support.git <br>
 cd Ola-Support <br>
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 change the .env.example file name .env and put your api key over there <br>
 main script to Run -> python ola_support.py<br>
 
