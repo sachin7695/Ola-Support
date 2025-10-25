@@ -1,0 +1,7 @@
+[2025-10-25T05:31:29.919+00:00] assistant: Namaste, main aapki kis tarah madad kar sakta hoon?
+[2025-10-25T05:31:44.895+00:00] user: क्या आप मुझे बता सकते हो कि मेरा दो घंटे से राइड क्यों नहीं कंफर्म हो रहा है?
+[2025-10-25T05:31:44.934+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-25T05:32:04.016+00:00] user: Hello?
+[2025-10-25T05:32:04.277+00:00] assistant: Haan ji, aapka number registered hai?
+[2025-10-25T05:32:32.515+00:00] user: Hello.
+[2025-10-25T05:32:33.581+00:00] assistant: Haan ji, awaaz aa rahi hai. Kya yeh aapka registered number hai jis par aapka Ola account hai?

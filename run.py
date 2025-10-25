@@ -221,7 +221,7 @@ def main(parser: Optional[argparse.ArgumentParser] = None):
         bot_file = caller_globals.get("__file__")
 
     if not bot_file:
-        print("❌ Could not determine the bot file. Pass it explicitly to main().")
+        print("Could not determine the bot file. Pass it explicitly to main().")
         sys.exit(1)
 
     # Import the bot file

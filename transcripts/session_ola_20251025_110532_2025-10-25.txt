@@ -1,0 +1,23 @@
+[2025-10-25T05:35:35.329+00:00] assistant: Main madad ke liye tayyar hoon. Aap apni baat bataiye.
+[2025-10-25T05:35:51.063+00:00] user: जी मेरा नाम रमेश है, मैं दो घंटे से ऑनलाइन हूँ पर मुझे कोई राइड नहीं मिल रहा है। क्या बता सकते हो कि क्या दिक्कत है?
+[2025-10-25T05:35:51.005+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-25T05:36:07.542+00:00] user: जी मेरा रजिस्टर नंबर है 976543210.
+[2025-10-25T05:36:08.205+00:00] assistant: Mujhe lagta hai yeh number registered nahi hai. Aap apna registered mobile number fir se confirm kar
+[2025-10-25T05:36:21.464+00:00] user: सॉरी सॉरी मेरा जो रजिस्टर्ड नंबर है ना वो है 98765-43210
+[2025-10-25T05:36:22.164+00:00] assistant: Aapka number blocked nahi hai. Sab theek hai. Kripya apna location badal kar phir se rides check kijiye. Theek hai ji, dhanyawaad. Aapko aur kisi madad ki zarurat ho to batayiyega. Namaste.
+[2025-10-25T05:36:45.167+00:00] user: नहीं नहीं, दीदी मुझे ये प्रॉब्लम है कि मैं अभी मैजेस्टिक बस स्टैंड के पास हूँ, लेकिन दो घंटे से मेरा कंफर्म नहीं हो रहा है कोई भी राइड, क्या प्रॉब्लम है बता सकते हो?
+[2025-10-25T05:36:46.042+00:00] assistant: Abhi demand thodi kam hai aur wait time zyada hai. Aap Peenya area ki taraf shift karke dekhiye, wahan demand zyada hai. Ho sakta hai wahan ride jaldi mile.
+[2025-10-25T05:37:07.301+00:00] user: क्या अभी बता सकते हो कि कोई ऑफर चल रहा है क्या, थ्री राइड के लिए या फिर दो राइड के लिए, कुछ सर चल रहा है अभी बेंगलुरु में?
+[2025-10-25T05:37:08.203+00:00] assistant: Abhi koi special surge ya bonus active nahi hai Bengaluru mein. Lekin agar aap thoda busy area mein shift karenge, toh ride milne ke chances badh jaayenge. Theek hai ji?
+[2025-10-25T05:37:31.841+00:00] user: नहीं मैं ये पूछ रहा था कि मेरा नंबर ब्लॉक नहीं है तो शायद कोई केवाईसी पेंडिंग है क्या क्योंकि मुझे मेरा पेआउट नहीं मिल रहा है.
+[2025-10-25T05:37:32.880+00:00] assistant: Aapka number blocked nahi hai, aur sab theek hai. Payout bhi aapko 26 tarikh ko milega, koi hold pending nahi hai. Aap bas thoda location shift karke try kijiye, ride mil jaayegi. Dhanyawaad, aur kuch madad chahiye toh batayiyega.
+[2025-10-25T05:37:52.159+00:00] user: मेरा जो ऐप है वो अपडेटेड नहीं है क्या?
+[2025-10-25T05:37:52.960+00:00] assistant: Aapka app updated hai aur sab theek chal raha hai. Aap bas location thoda change karke try kijiye, ride mil jaayegi. Dhanyawaad!
+[2025-10-25T05:38:11.839+00:00] user: क्या आप ये बोल सकते हो कि ये जो नंबर है 9911223344 ये ब्लॉक है क्या?
+[2025-10-25T05:38:14.080+00:00] assistant: Yeh number blocked dikh raha hai. Agar aapke documents pending hain ya koi aur reason hai, toh unko update karna padhega. Agar further help chahiye, toh hum aapko human agent se jod sakte hain. Kripya apne documents check
+[2025-10-25T05:38:31.801+00:00] user: کیا بول سکتے ہو کہ یہ کس لیے بلاک ہے؟
+[2025-10-25T05:38:32.560+00:00] assistant: Yeh number RC document pending hone ki wajah se blocked hai. Main abhi aapko link bhej deta hoon jisme steps diye honge RC update karne ke liye. Aap wo poora kar dijiye, uske baad account unblock ho jaayega.
+[2025-10-25T05:38:51.183+00:00] user: मुझे अभी कोई इंसेंटिव्स मिल सकता है?
+[2025-10-25T05:38:51.185+00:00] assistant: Abhi aapke case mein incentives available nahi dikh rahe hain. Pehle aap RC update kar lijiye, phir jab account active hoga toh aap incentives ke liye eligible ho jaayenge.
+[2025-10-25T05:39:14.221+00:00] user: ओके तुम्हें बोलकर अपडेट कर दूंगा, लेकिन मुझे लिंक भेज सकते हो क्या?
+[2025-10-25T05:39:15.262+00:00] assistant: Maine link bhej diya hai aapke phone par. Usme diye gaye steps follow karke aap jaldi se RC update kar dijiye. Phir aapka account unblock ho jaayega. Koi aur madad chahiye toh bataiye.

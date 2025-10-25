@@ -1,0 +1,15 @@
+[2025-10-25T05:24:42.482+00:00] assistant: Namaste, main aapki kis tarah madad kar sakta hoon?
+[2025-10-25T05:24:55.939+00:00] user: हलो फिर से बोलिए?
+[2025-10-25T05:24:55.599+00:00] assistant: Namaste, main aapki kis tarah madad kar sakta hoon?
+[2025-10-25T05:25:10.397+00:00] user: मेरा नाम रमेश है, दो घंटे से मेरा राइड कंफर्म नहीं हो रहा है.
+[2025-10-25T05:25:10.342+00:00] assistant: Ola customer support mein aapka swagat hai. Kya yeh aapka registered number hai?
+[2025-10-25T05:25:26.880+00:00] user: मेरा रजिस्टर्ड नंबर है 993322441100.
+[2025-10-25T05:25:27.641+00:00] assistant: Yeh number registered nahi dikha raha. Kripya apna registered
+[2025-10-25T05:25:43.982+00:00] user: सॉरी सॉरी, मेरा जो नंबर है न, जो रजिस्टर्ड है, 9911223344.
+[2025-10-25T05:25:45.982+00:00] assistant: Aapka RC document pending hai. Main abhi aapko ek link bhej raha hoon, uske steps follow karke apna RC update kijiye. Iske baad aapka account unblock ho jayega.
+[2025-10-25T05:26:05.200+00:00] user: क्या आप ये बता सकते हैं कि मैं अभी जहां मैजेस्टिक बस स्टैंड में हूं, मेरा दो घंटे से मैं ऑनलाइन हूं लेकिन मेरा राइड कंफर्म नहीं हो रहा है?
+[2025-10-25T05:26:06.500+00:00] assistant: Aapke area me is samay demand thodi kam hai aur wait time zyada hai. Aap Peenya area ki taraf move karke ride try karenge toh chances better ho sakte hain.
+[2025-10-25T05:26:21.743+00:00] user: कितना लगभग मिल सकता है पैसा?
+[2025-10-25T05:26:21.279+00:00] assistant: Yeh depend karta hai ride distance aur surge pe. Lekin agar aap demand wale area me jayenge toh ride milne ka chance zyada hai.
+[2025-10-25T05:26:36.522+00:00] user: अभी बेंगलुरु में तीन राइड्स के लिए कितना पैसा मिल सकता है?
+[2025-10-25T05:26:37.464+00:00] assistant: Abhi koi extra bonus ya surge nahi chal raha hai, lekin regular fare ke hisaab se aapko income mil jay

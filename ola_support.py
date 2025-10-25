@@ -53,7 +53,7 @@ instruction_text = load_instrcutions(instruction_path)
 
 async def run_bot(webrtc_connection: SmallWebRTCConnection, _: argparse.Namespace):
     logger.info(f"Starting bot")
-    CALL_TIMEOUT_SECS = 120  # 4 minutes
+    CALL_TIMEOUT_SECS = 240  # 4 minutes
     transport = SmallWebRTCTransport(
         webrtc_connection=webrtc_connection,
         params=TransportParams(
@@ -121,11 +121,6 @@ async def run_bot(webrtc_connection: SmallWebRTCConnection, _: argparse.Namespac
         session_properties=session_properties,
         start_audio_paused=False,
     )
-
-    tools = ToolsSchema(standard_tools=[
-        verify_driver_number_schema, 
-    ])
-
     #Transcript handling to log the transcript file
     transcript = TranscriptProcessor()
     session_id = datetime.now().strftime("%Y%m%d_%H%M%S")
