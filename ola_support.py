@@ -2,10 +2,6 @@ import argparse
 import asyncio
 import os
 from datetime import datetime
-import math
-import calendar
-from typing import Dict
-from typing import Optional, List
 from dotenv import load_dotenv
 from loguru import logger
 import os
@@ -73,13 +69,9 @@ async def run_bot(webrtc_connection: SmallWebRTCConnection, _: argparse.Namespac
 
     session_properties = SessionProperties(
         input_audio_transcription=InputAudioTranscription(),
-        # Set openai TurnDetection parameters. Not setting this at all will turn it
-        # on by default
+
         turn_detection=SemanticTurnDetection(),
-        # Or set to False to disable openai turn detection and use transport VAD
-        # turn_detection=False,
         input_audio_noise_reduction=InputAudioNoiseReduction(type="near_field"),
-        # tools=tools,
         instructions=f"{instruction_text}"
     )
 
