@@ -22,9 +22,7 @@ def _resolve_msisdn_from_args_or_cache(args: dict) -> str | None:
     return _LAST_VERIFIED_MSISDN
 
 
-# -------------------------
 # Mock “datastores”
-# -------------------------
 DRIVERS_DB: Dict[str, Dict[str, Any]] = {
     "+919876543210": {"name": "Ramesh", "blocked": False, "registered": True, "city": "Bengaluru", "rating": 4.82},
     "+919911223344": {"name": "Suresh", "blocked": True,  "registered": True, "city": "Delhi", "rating": 4.55},
@@ -61,9 +59,8 @@ def _mock_supply_demand(lat: float, lon: float) -> dict:
         "suggestion": "Peenya taraf move kariye; aaj wahan demand zyada hai."
     }
 
-# -------------------------
+
 # Helpers
-# -------------------------
 def normalize_msisdn(raw: str, default_cc: str = "+91") -> str:
     digits = "".join(ch for ch in raw if ch.isdigit())
     if digits.startswith("91") and len(digits) == 12:
@@ -72,9 +69,8 @@ def normalize_msisdn(raw: str, default_cc: str = "+91") -> str:
         return f"{default_cc}{digits}"
     return f"+{digits}" if not raw.startswith("+") else raw
 
-# -------------------------
+
 # Schemas
-# -------------------------
 verify_driver_number_schema = FunctionSchema(
     name="verify_driver_number",
     description="Verify driver's phone; return registration + block status.",
@@ -158,9 +154,9 @@ create_support_ticket_schema = FunctionSchema(
     required=["phone_number","category","summary"],
 )
 
-# -------------------------
+
 # Implementations (async)
-# -------------------------
+
 def make_verify_driver_number():
     async def verify_driver_number(params: FunctionCallParams):
         msisdn = normalize_msisdn(
@@ -259,9 +255,7 @@ def make_create_support_ticket():
         await params.result_callback({"ticket_id": ticket_id, "status": "created"})
     return create_support_ticket
 
-# -------------------------
 # Registration helper
-# -------------------------
 def register_ola_tools(llm) -> ToolsSchema:
     tools = ToolsSchema(standard_tools=[
         verify_driver_number_schema,
