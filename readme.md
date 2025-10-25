@@ -39,7 +39,7 @@ Step-2 python ola_support.py
 
 ---
 
-### 1️⃣ Verify Number (Happy Path) → `verify_driver_number`
+### 1️⃣ Verify Number → `verify_driver_number`
 
 **User:**  
 > “Namaste, main 9876543210 se driver hoon, 2 ghante se online hoon par ride nahi mil rahi.”
@@ -52,7 +52,7 @@ Step-2 python ola_support.py
 
 ---
 
-### 2️⃣ Blocked Number (Simple Path) → `verify_driver_number` *(no more tools)*
+### 2️⃣ Blocked Number → `verify_driver_number` *(no more tools)*
 
 **User:**  
 > “Mera number 9911223344 hai, rides nahi aati.”
@@ -77,7 +77,7 @@ Step-2 python ola_support.py
 
 ---
 
-### 4️⃣ Supply/Demand Advice → `get_supply_demand_snapshot` (+ optional `get_incentives_today`)
+### 4️⃣ Supply/Demand Advice → `get_supply_demand_snapshot` 
 
 **User:**  
 > “Main Majestic Bus Stand ke paas hoon, 2 ghante se online hoon par ride nahi.”
