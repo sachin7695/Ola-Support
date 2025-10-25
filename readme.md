@@ -1,14 +1,31 @@
-install python --version 3.12.x<br>
-install virtualenv<br>
-mkdir env<br>
-cd env<br>
-python -m virtualenv pc_env<br>
-source env/pc_env/bin/activate<br>
-cd .. <br>
-clone the repo <br>
-git clone https://github.com/sachin7695/Ola-Support.git <br>
-cd Ola-Support <br>
-pip install -r requirements.txt <br>
-change the .env.example file name .env and put your api key over there <br>
-main script to Run -> python ola_support.py<br>
+
+
+### A simple guide to set up and run the **Ola Driver Support** assistant locally.
+
+---
+
+##  Setup Instructions for Linux
+
+### 1. Install Python 3.12.x
+Make sure Python 3.12 or higher is installed:
+
+```bash 
+step-1 python --version
+Step-2 pip install virtualenv
+Step-3 mkdir env
+       cd env
+Step-4 python -m virtualenv pc_env
+       source env/pc_env/bin/activate
+       cd ..
+Step-5 git clone https://github.com/sachin7695/Ola-Support.git
+       cd Ola-Support
+Step-6 pip install -r requirements.txt
+```
+
+### 2. Running the Script
+```bash
+Step-1 cp .env.example .env and put your api key in the .env file
+Step-2 python ola_support.py
+```
+
 
