@@ -126,6 +126,6 @@ Step-2 python ola_support.py
 
 ---
 
-## 🎬 Demo Preview
+## 🎬 Demo Google Drive Link
 
-![Watch Demo](https://drive.google.com/file/d/1_PtCqYCoeDFtw10C9GWs3afMJM0JDmfj/view?usp=sharing)
+[Watch Demo](https://drive.google.com/file/d/1_PtCqYCoeDFtw10C9GWs3afMJM0JDmfj/view?usp=sharing)
